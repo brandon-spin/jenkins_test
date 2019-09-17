@@ -28,6 +28,7 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
       <div>
         <p>Deploy~~ test jenkins</p>
+        <p>Deploy~~ test jenkins</p>
       </div>
     </ul>
   </div>
